@@ -1,4 +1,5 @@
-#lust_losowanie
+# Losowanie gracza w konsoli
+
 ## Ogulnie to pisane od zera elo benc
 
 # Preview tego pienkenego skryptu
