@@ -1,3 +1,9 @@
-# lust_losowanie
-## Wzorowane na SplitRP
-https://cdn.discordapp.com/attachments/1218243900901298335/1315407910234361907/image.png?ex=675946d4&is=6757f554&hm=11edf485e990cf5bedea9149a87d067f88629686400bcf0825a7d6ee522c1b3d&
+#lust_losowanie
+## Ogulnie to pisane od zera elo benc
+
+# Preview tego pienkenego skryptu
+![image](https://github.com/user-attachments/assets/cd337d43-0887-43e2-b39d-8633499d6cfe)
+
+
+### Wzorowane na SplitRP
+![image](https://github.com/user-attachments/assets/0a432ad8-af43-4156-8d82-ed236149743d)
